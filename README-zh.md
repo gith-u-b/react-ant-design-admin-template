@@ -26,3 +26,6 @@ yarn run start
 # 构建生产环境
 yarn run build
 ```
+## Demo
+
+![demo](https://github.com/sai1024/resource_share/blob/master/demo.gif)

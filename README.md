@@ -28,3 +28,7 @@ This will automatically open http://localhost:3000
 # build for production environment
 yarn run build
 ```
+
+## Demo
+
+![demo](https://github.com/sai1024/resource_share/blob/master/demo.gif)
