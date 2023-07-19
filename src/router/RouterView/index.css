@@ -1,0 +1,26 @@
+/*路由切换动画——左移动*/
+.slide-enter {
+    position: absolute;
+    top: 0;
+    background: #fff;
+    z-index: 10000;
+    opacity: 1;
+    transform: translateX(100%);
+}
+
+.slide-enter.slide-enter-active {
+    opacity: 1;
+    transform: translateX(0);
+    transition: all 0.4s ease-out;
+}
+
+.slide-leave {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.slide-leave.slide-leave-active {
+    opacity: 1;
+    transform: translateX(-100%);
+    transition: all 0.4s ease-out;
+}

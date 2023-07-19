@@ -1,0 +1,16 @@
+.container{
+    justify-content: space-between;
+}
+.item{
+    width: 49%;
+    border: 1px solid #e8eaec;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.title{
+    padding: 10px 20px;
+    border-bottom: 1px solid #e8eaec;
+}
+.content{
+    height: 300px;
+}
