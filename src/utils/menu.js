@@ -60,6 +60,12 @@ export const menuJson = [
     name: "走马灯",
     path: "/rotation",
     children: [],
+  },
+  {
+    id: "/charts",
+    name: "报表页",
+    path: "/Charts",
+    children: []
   }
 ]
 

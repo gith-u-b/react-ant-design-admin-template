@@ -52,6 +52,11 @@ let router = [
                 exact: false
             },
             {
+                path: '/charts',
+                component: lazy(()=>import('@/pages/Chart')),
+                exact: false
+            },
+            {
                 path: '*',
                 component: lazy(()=>import('@/compontens/MyNotFound')),
                 meta: {
