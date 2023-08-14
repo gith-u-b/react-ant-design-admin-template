@@ -6,7 +6,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/sai1024/react-ant-design-admin-template.git
+git clone https://github.com/gith-u-b/react-ant-design-admin-template.git
 
 # 进入项目目录
 cd react-ant-design-admin-template
@@ -28,4 +28,4 @@ yarn run build
 ```
 ## Demo
 
-![demo](https://github.com/sai1024/resource_share/blob/master/demo.gif)
+![demo](https://github.com/gith-u-b/resource_share/blob/master/demo.gif)

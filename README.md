@@ -8,7 +8,7 @@ English | [简体中文](./README-zh.md)
 
 ```bash
 # clone the project
-git clone https://github.com/sai1024/react-ant-design-admin-template.git
+git clone https://github.com/gith-u-b/react-ant-design-admin-template.git
 
 # enter the project directory
 cd react-ant-design-admin-template
@@ -31,4 +31,4 @@ yarn run build
 
 ## Demo
 
-![demo](https://github.com/sai1024/resource_share/blob/master/demo.gif)
+![demo](https://github.com/gith-u-b/resource_share/blob/master/demo.gif)
